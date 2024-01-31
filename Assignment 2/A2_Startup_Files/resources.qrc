@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>earth.jpg</file>
+        <file>astroid.jpg</file>
+        <file>skybox.jpg</file>
+    </qresource>
+</RCC>

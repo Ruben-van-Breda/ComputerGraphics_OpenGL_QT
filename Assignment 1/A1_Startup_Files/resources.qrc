@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>comp30020-A1.ppm</file>
+    </qresource>
+</RCC>
